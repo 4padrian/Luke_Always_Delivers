@@ -1,0 +1,112 @@
+body{
+    background: url(mainBackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Righteous', cursive;
+}
+#mainSection{
+    margin-top: 10%;
+    font-size: 25px;
+}
+.menuButton a{
+    display: block;
+    padding: 15px;
+    background: #E5B64E;
+    color: #F0524F;
+    text-decoration: none;
+    width: 200px;
+    border: 3px solid #F0524F;
+    border-radius: 3px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-variant: small-caps;
+}
+.menuButton a:hover{
+    text-decoration: none;
+    cursor: pointer;
+    background: #4C8340;
+    text-align: center;
+    font-variant: small-caps;
+    color: #F1F1F1;
+}
+#mainSection .bye{
+    text-align: center;
+    color: #F0524F;
+    background: #E5B64E;
+    padding: 15px;
+    border: 3px solid #F0524F;
+    border-radius: 3px;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gameColor{
+    color: #F0524F;
+    font-size: 20px;
+}
+.controls{
+    display: inline-block;
+    color: #F0524F;
+    font-size: 25px;
+    border: 2px solid white;
+    padding: 15px;
+    border-radius: 5px;
+    width: 30px;
+    text-align: center;
+    margin: 5px;
+}
+.align-buttons{
+    margin: 0;
+    padding: 0;
+}
+#controls{
+    text-align: center;
+    margin: auto;
+}
+.firefox{
+    font-size: 20px;
+    color: #F1F1F1;
+}
+#back{
+    margin-top: 2%;
+}
+#back a{
+    display: block;
+    padding: 15px;
+    background: #E5B64E;
+    color: #F0524F;
+    text-decoration: none;
+    width: 200px;
+    border: 3px solid #F0524F;
+    border-radius: 3px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 25px;
+}
+#back a:hover{
+    text-decoration: none;
+    cursor: pointer;
+    background: #4C8340;
+    text-align: center;
+    font-variant: small-caps;
+    color: #F1F1F1;
+}
+#credits iframe{
+    display: block;
+    margin: auto;
+}
+#credits{
+    text-align: center;
+    margin: auto;
+    color: white;
+}
+#creator{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 30px;
+}

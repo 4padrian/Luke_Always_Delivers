@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>Luke Always Delivers</title>
+</head>
+<body>
+    <audio id="chill" autoplay loop>
+        <source src="no_copyright_tyler_d_chill_indie.mp3" type="audio/mpeg">
+    </audio>
+
+    <div class="container">
+        <canvas></canvas>
+    </div>
+
+    <div id="cutomBar">
+        <div id="mainMenu">
+            <a href="../game.html"> Main Menu </a>
+        </div>
+
+        <span class="warning">!</span>
+        <div id="timer">5 : 00</div>
+        <p class="info">Deliver all the pizza's to people around the city. The person will be in front of the door waiting for you.</p>
+        <div id="lifeLeft">
+            <p>Pizza's to deliver: </p>
+            <img src="pizzaslice.png" alt="pizzaSliceLife" id="lifeNo1">
+            <img src="pizzaslice.png" alt="pizzaSliceLife" id="lifeNo2">
+            <img src="pizzaslice.png" alt="pizzaSliceLife" id="lifeNo3">
+            <img src="pizzaslice.png" alt="pizzaSliceLife" id="lifeNo4">
+        </div>
+        
+    </div>
+
+<div id="gameOver" class="modalDialog">
+    <div>
+        <h2>
+            <img src="pizzaslice.png" alt="pizzaSliceLife">
+            Game over!
+            <img src="pizzaslice.png" alt="pizzaSliceLife">
+        </h2>
+        <p>Time's up! Try again!</p>
+        <a href="../game.html">-- Main Menu --</a>
+    </div>
+</div>
+
+    <div id="gameFinished">
+        <div>
+        <h2>
+            <img src="pizzaslice.png" alt="pizzaSliceLife">
+            Great job!
+            <img src="pizzaslice.png" alt="pizzaSliceLife">
+        </h2>
+        <p>You've delivered all the pizza's!</p>
+        <a href="../game.html">-- Main Menu --</a>
+    </div>
+    </div>
+
+    <script src="main.js" type = "text/javascript"></script>
+    <script src="https://code.jquery.com/jquery-3.5.0.min.js"                          
+            integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>
+</body>
+</html>

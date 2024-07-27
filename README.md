@@ -7,8 +7,16 @@ Below you can find the screenshots of the original website showing the challenge
 Additionally, you can see my game presentation during the live stream in the youtube video below. It starts from timestamp 29:10.
 
 [![GameDev Radio! S2 EP7; Donam si Jucam Jam De Casa #stamacasa](https://github.com/4padrian/Luke_Always_Delivers/blob/master/original_website_photos/Jam_De_Casa_5.jpg)](https://www.youtube.com/watch?v=vFapr-xkhRQ&ab_channel=GameDevAcademy)
+[YouTube Video Link](https://www.youtube.com/watch?v=vFapr-xkhRQ&ab_channel=GameDevAcademy)
 
+Website Image 1
 ![Jam_de_casa_1](https://github.com/4padrian/Luke_Always_Delivers/blob/master/original_website_photos/Jam_De_Casa_1.jpg)
+
+Website Image 2
 ![Jam_de_casa_2](https://github.com/4padrian/Luke_Always_Delivers/blob/master/original_website_photos/Jam_De_Casa_2.jpg)
+
+Website Image 3
 ![Jam_de_casa_3](https://github.com/4padrian/Luke_Always_Delivers/blob/master/original_website_photos/Jam_De_Casa_3.png)
+
+Website Image 4
 ![Jam_de_casa_4](https://github.com/4padrian/Luke_Always_Delivers/blob/master/original_website_photos/Jam_De_Casa_4.jpg)
